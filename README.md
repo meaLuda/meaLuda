@@ -35,7 +35,7 @@ An <strong>insightful strategic</strong> Data Engineer with an interest in devel
    <td><a target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="36" height="36"/></a></td>
    </tr>
    </tr>
-   <td>Android App Dev Flutter - jnr </td>
+   <td>Android App Dev Flutter - 1yr </td>
    <td><a target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="36" height="36"/></a></td>
    </tr>
 </table>
