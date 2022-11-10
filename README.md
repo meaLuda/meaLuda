@@ -18,6 +18,11 @@ An <strong>insightful strategic</strong> Data Engineer with an interest in devel
     <td>Python</td>
     <td><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a></td>
   </tr>
+     </tr>
+      <td>A.W.S(Amazon Web Services) - 1yr</td>
+    <td>
+<a target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70" height="70"/></a></td>
+  </tr>
   <tr>
     <td>MySQL</td>
     <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a></td>
@@ -29,15 +34,13 @@ An <strong>insightful strategic</strong> Data Engineer with an interest in devel
       <td>Notebook</td>
     <td><a target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="36" height="36"/></a></td>
   </tr>
+    </tr>
+      <td>Android App Dev Flutter - jnr </td>
+    <td><a target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="36" height="36"/></a></td>
+  </tr>
  
 </table>
 
-
-
-
-<a target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="36" height="36"/><h3>App Dev Flutter -learing</h3></a>
-<a target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="36" height="36"/><h3>Anaconda Python</h3></a>
-<a target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70" height="70"/><h3>A.W.S(Amazon Web Services) -learing</h3></a>
 <a target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" width="70" height="70"/><h3>Google Cloud -learing</h3></a>
 </p>
 
