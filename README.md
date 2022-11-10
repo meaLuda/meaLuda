@@ -8,7 +8,7 @@ An <strong>insightful strategic</strong> Data Engineer with an interest in devel
 > ---
 
 ### Skills
-<table>
+<table style="center">
    <tr>
       <th>Skill</th>
       <th>Icon</th>
@@ -47,20 +47,18 @@ An <strong>insightful strategic</strong> Data Engineer with an interest in devel
    </tr>
 </table>
 
-> ---
+---
 
 ### Socials
 
-<a href="https://www.github.com/meaLuda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><br>
- <a href="https://www.linkedin.com/in/eliud-munyala/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />LinkedIn</a><br>
- <a href="http://mypfproj.herokuapp.com/" target="_blank" rel="noreferrer"><strong>Website | Blog</strong> </a> 
-
-> ---
+<h3>LinkedIn <a href="https://www.linkedin.com/in/eliud-munyala/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></h3>
+ 
+---
 
 [![Check Out My stats](https://github-readme-stats.vercel.app/api?username=meaLuda&count_private=true&show_icons=true&theme=default&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meaLuda)](https://github.com/meaLuda/github-readme-stats)
 
-> ---
+---
 
