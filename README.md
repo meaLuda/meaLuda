@@ -12,31 +12,38 @@ An <strong>insightful strategic</strong> Data Engineer with an interest in devel
    <tr>
       <th>Skill</th>
       <th>Icon</th>
+      <th>Years</th>
    </tr>
    <tr>
       <td>Python</td>
       <td><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a></td>
+      <td>3 yrs</td>
    </tr>
    </tr>
-   <td>A.W.S(Amazon Web Services) - 1yr</td>
+   <td>A.W.S(Amazon Web Services)</td>
    <td>
       <a target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70" height="70"/></a>
    </td>
+   <td>1 yr</td>
    </tr>
    <tr>
       <td>MySQL</td>
       <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a></td>
+   <td>2 yrs</td>
    </tr>
    <tr>
       <td>PostgreSQL</td>
       <td><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a></td>
+   <td>2 yrs</td>
    </tr>
    <td>Notebook</td>
    <td><a target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="36" height="36"/></a></td>
+   <td>2 yrs</td>
    </tr>
    </tr>
    <td>Android App Dev Flutter - 1yr </td>
    <td><a target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="36" height="36"/></a></td>
+   <td>1 yr</td>
    </tr>
 </table>
 
