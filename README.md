@@ -2,7 +2,7 @@
 > ---
 
 <p>
-An <strong>insightful strategic</strong> Data Engineer with an interest in developing and implementing data-driven solutions to <strong>complex business problems</strong> with a focus on approaches such as MLOps that allow organizations to alleviate issues on their path to AI with ROI by providing a technological backbone for managing Machine Learning life cycle through automation and scalability and improving the customer experience to gain an in-depth understanding of organizational objectives.
+A junior data engineer with experience in data analysis, data science, machine learning, and backend development with Python, I am excited to bring my skills and passion to a new opportunity. I am eager to learn and grow with a team that values continuous learning and innovation.
 </p>
 
 > ---
@@ -41,9 +41,7 @@ An <strong>insightful strategic</strong> Data Engineer with an interest in devel
    <td>2 yrs</td>
    </tr>
    </tr>
-   <td>Android App Dev Flutter - 1yr </td>
-   <td><a target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="36" height="36"/></a></td>
-   <td>1 yr</td>
+   
    </tr>
 </table>
 
