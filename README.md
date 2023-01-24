@@ -11,8 +11,7 @@ A junior data engineer with experience in data analysis, data science, machine l
 <table style="center">
    <tr>
       <th>Skill</th>
-      <th>Icon</th>
-      <th>Years</th>
+      <th>.</th>
    </tr>
    <tr>
       <td>Python</td>
