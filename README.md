@@ -2,7 +2,7 @@
 > ---
 
 <p>
-A junior data engineer with experience in data analysis, data science, machine learning, and backend development with Python, I am excited to bring my skills and passion to a new opportunity. I am eager to learn and grow with a team that values continuous learning and innovation.
+A Data engineer with experience in data analysis, data science, machine learning, and backend development with Python, I am excited to bring my skills and passion to a new opportunity. I am eager to learn and grow with a team that values continuous learning and innovation.
 </p>
 
 > ---
