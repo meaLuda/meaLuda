@@ -27,10 +27,6 @@ A Data engineer with experience in data analysis, data science, machine learning
     <td><a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" height="36" alt="AWS"></a></td>
   </tr>
   <tr>
-    <td>MySQL</td>
-    <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"></a></td>
-  </tr>
-  <tr>
     <td>PostgreSQL</td>
     <td><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL"></a></td>
   </tr>
@@ -41,20 +37,20 @@ A Data engineer with experience in data analysis, data science, machine learning
 </table>
 Here are my skills:
 
-## Overall Skills: `Data Engineering and Machine Learning`, `Data Modelling & Visualization`, `Backend Development`.
+### Overall Skills: `Data Engineering and Machine Learning`, `Data Modelling & Visualization`, `Backend Development`.
 
-## Data Engineering: `Web Scraping`, `Airflow`, `PySpark`, `Golang`, `Cloud (AWS, Azure)`.
+### Data Engineering: `Web Scraping`, `Airflow`, `PySpark`, `Golang`, `Cloud (AWS, Azure)`.
 
-## Data Science: `Pandas`, `NumPy`, `Excel`, `PyTorch`, `PowerBI`, `Tableau`.
+### Data Science: `Pandas`, `NumPy`, `Excel`, `PyTorch`, `PowerBI`, `Tableau`.
 
-Backend Development: SQL, Redis, Python3, JavaScript, API development in FastAPI and Django REST, Git, Docker.
+### Backend Development: `SQL`, `Redis`, `Python3`, `Golang`, `JavaScript`, API development in `FastAPI`, `Golang` and `Django REST`, `Git`, `Docker`.
 ---
 
-### Blog
+## Blog
 
 https://datablockchainai.com/
 
-### Socials
+## Socials
 
 <h3>LinkedIn <a href="https://www.linkedin.com/in/eliud-munyala/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></h3>
  
