@@ -1,13 +1,26 @@
 ## Hi there 👋 I'm Eliud 🕵🏽‍♂️
 > ---
 
-<p>
-A Data engineer with experience in data analysis, data science, machine learning, and backend development with Python, I am excited to bring my skills and passion to a new opportunity. I am eager to learn and grow with a team that values continuous learning and innovation.
-</p>
+<h5>
+Proficient Data Engineer and Backend Developer skilled in ETL automation, API development, and data analysis. Strong
+problem-solving abilities with a track record of streamlining processes and delivering high-quality results. Experienced in
+Python, SQL, Golang, and cloud technologies.
+</h5>
 
 > ---
 
-### Skills
+# Overall Skills:
+
+### ● `Backend Development`: 
+SQL, Redis, Golang, Python3, JavaScript, API development (FastAPI, Django REST), Git,Docker, Flutter (Dart)
+
+### ● `Data Engineering & Cloud`: 
+ETL/ELT, Data warehousing, Data scraping, PySpark/Pandas, Cloud (AWS, Azure)
+
+### ● `AI & Data`: 
+Pandas, NumPy, Excel, PyTorch, PowerBI, Tableau, data analysis, machine learning
+
+---
 
 <table style="margin: auto;">
   <tr>
@@ -31,13 +44,7 @@ A Data engineer with experience in data analysis, data science, machine learning
   </tr>
 </table>
 
-### ● `Backend Development`: SQL, Redis, Golang, Python3, JavaScript, API development (FastAPI, Django REST), Git,Docker, Flutter (Dart)
 
-### ● `Data Engineering & Cloud`: 
-ETL/ELT, Data warehousing, Data scraping, PySpark/Pandas, Cloud (AWS, Azure)
-
-### ● `AI & Data`: 
-Pandas, NumPy, Excel, PyTorch, PowerBI, Tableau, data analysis, machine learning
 
 ---
 
