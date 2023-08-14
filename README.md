@@ -30,15 +30,12 @@ A Data engineer with experience in data analysis, data science, machine learning
     <td><a target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="36" height="36" alt="Notebook"></a></td>
   </tr>
 </table>
-Here are my skills:
 
-### Overall Skills: `Data Engineering and Machine Learning`, `Data Modelling & Visualization`, `Backend Development`.
+● `Backend Development`: SQL, Redis, Golang, Python3, JavaScript, API development (FastAPI, Django REST), Git,
+Docker, Flutter (Dart)
+● `Data Engineering & Cloud`: ETL/ELT, Data warehousing, Data scraping, PySpark/Pandas, Cloud (AWS, Azure)
+● `AI & Data`: Pandas, NumPy, Excel, PyTorch, PowerBI, Tableau, data analysis, machine learning
 
-### Data Engineering: `Web Scraping`, `Airflow`, `PySpark`, `Golang`, `Cloud (AWS, Azure)`.
-
-### Data Science: `Pandas`, `NumPy`, `Excel`, `PyTorch`, `PowerBI`, `Tableau`.
-
-### Backend Development: `SQL`, `Redis`, `Python3`, `Golang`, `JavaScript`, API development in `FastAPI`, `Golang` and `Django REST`, `Git`, `Docker`.
 ---
 
 ## Blog
