@@ -31,10 +31,13 @@ A Data engineer with experience in data analysis, data science, machine learning
   </tr>
 </table>
 
-● `Backend Development`: SQL, Redis, Golang, Python3, JavaScript, API development (FastAPI, Django REST), Git,
-Docker, Flutter (Dart)
-● `Data Engineering & Cloud`: ETL/ELT, Data warehousing, Data scraping, PySpark/Pandas, Cloud (AWS, Azure)
-● `AI & Data`: Pandas, NumPy, Excel, PyTorch, PowerBI, Tableau, data analysis, machine learning
+### ● `Backend Development`: SQL, Redis, Golang, Python3, JavaScript, API development (FastAPI, Django REST), Git,Docker, Flutter (Dart)
+
+### ● `Data Engineering & Cloud`: 
+ETL/ELT, Data warehousing, Data scraping, PySpark/Pandas, Cloud (AWS, Azure)
+
+### ● `AI & Data`: 
+Pandas, NumPy, Excel, PyTorch, PowerBI, Tableau, data analysis, machine learning
 
 ---
 
