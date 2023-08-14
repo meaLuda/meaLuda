@@ -13,24 +13,19 @@ A Data engineer with experience in data analysis, data science, machine learning
   <tr>
     <th>Skill</th>
     <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
   </tr>
   <tr>
     <td>Python</td>
     <td><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"></a></td>
-  </tr>
-  <tr>
     <td>Golang</td>
     <td><a href="https://golang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36" height="36" alt="Golang"></a></td>
-  </tr>
-  <tr>
     <td>AWS</td>
     <td><a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" height="36" alt="AWS"></a></td>
-  </tr>
-  <tr>
     <td>PostgreSQL</td>
     <td><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL"></a></td>
-  </tr>
-  <tr>
     <td>Notebook</td>
     <td><a target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="36" height="36" alt="Notebook"></a></td>
   </tr>
