@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eliud-munyala/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/meaLuda)
-[![Blog](https://img.shields.io/badge/Blog-Visit-FF5722?style=flat-square&logo=blogger)](https://datablockchainai.com/)
 
 > Data Engineer and Backend Developer passionate about building scalable data pipelines and AI systems.
 
@@ -67,4 +66,4 @@
 ## 📫 Let's Connect!
 
 I'm always open to interesting conversations and collaboration opportunities.
-Feel free to reach out: [munyalamea@gmail.com](mailto:munyalamea@gmail.com) | [+254 793 601115](tel:+254793601115)
+Feel free to reach out: [munyalamea@gmail.com](mailto:munyalamea@gmail.com) 
