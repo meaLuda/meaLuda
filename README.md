@@ -166,25 +166,6 @@
 </table>
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/munyala/agric-open-source">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munyala&repo=agric-open-source&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/munyala/data-science-ml-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munyala&repo=data-science-ml-portfolio&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-### 🔗 Other Notable Projects
-- 🌾 **[Agric Open Source](https://github.com/munyala/agric-open-source)** - Open-source data engineering platform for agriculture
-- 📊 **[Data Science Presentation](https://github.com/munyala/data-science-presentation)** - Women Techmakers talk on DS pipelines
-- 💰 **[Fintech Hackathon Winner](https://github.com/munyala/fintech-hackathon)** - Award-winning fintech solution
-- 🤖 **[ML Portfolio](https://github.com/munyala/data-science-ml-portfolio)** - Collection of DS/ML projects and learning notes
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
