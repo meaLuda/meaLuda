@@ -166,14 +166,6 @@
 </table>
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=munyala&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
----
-
 ## 🎓 Education & Certifications
 
 - 🎓 **Data Science & Machine Learning Certificate** - Moringa School (2021-2022)
